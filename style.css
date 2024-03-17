@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+
+p {
+    font-size: 77pt;
+    color: green;
+}
+
+.clicked {
+    color: blue; /* Change the color when clicked */
+}
